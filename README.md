@@ -1,11 +1,13 @@
 # Repetition PB
 
-
-## PLease solve by using a callback (filter, reduce, map ...)
-
 ---
 
 ![map - filter - reduce ](map-filter-reduce.jpg)
+
+---
+
+
+## PLease solve by using a callback (filter, reduce, map ...)
 
 1. 
 The head of teachers needs an information, who passed the course. Write a program to forward this info (forward name and grade of students who passed). 
