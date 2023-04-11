@@ -1,4 +1,11 @@
+# Repetition PB
+
+
 ## PLease solve by using a callback (filter, reduce, map ...)
+
+---
+
+![map - filter - reduce ](map-filter-reduce.jpg)
 
 1. 
 The head of teachers needs an information, who passed the course. Write a program to forward this info (forward name and grade of students who passed). 
@@ -75,3 +82,13 @@ const letterArray = [
 expected output:{ a: 1, b: 1, c: 2, d: 2, f: 2, g: 1 }
 ```
 ---
+## Classes
+
+5. 
+* Create a class named `TV` with the properties `brand`, `channel` and `volume`.
+* Specify `brand` as a constructor parameter.
+* The value of `channel` should be `1` by default. `volume` should be `50` by default.
+* Add methods `increaseVolume` and `decreaseVolume`. Volume can't be below 0 or above 100.
+* Add a method `getNewChannel` to set the channel randomly. Let's say the TV has only 50 channels.
+* Add a method `resetTV` to reset the TV back to channel 1 and volume 50. 
+* Add a merhod `getTVstatus` that returns info about the TV status in the format: "Panasonic at channel 8, volume 75".
